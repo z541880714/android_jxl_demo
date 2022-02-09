@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void onClick(View view) {
-        Log.i("log_zc", "onClick: aaaa");
         if (em == null) {
             return;
         }
