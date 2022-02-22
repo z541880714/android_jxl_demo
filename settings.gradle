@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "excelDemo"
 include ':app'
+include ':POI'
